@@ -26,6 +26,9 @@ The project is structured under the `LangChain/` directory:
 5. **[5-structuredoutput.ipynb](file:///d:/AI%20Material/LangChain-Krish%20Naik/LangChain/5-structuredoutput.ipynb)**
    - Defining and requesting structured outputs (e.g., JSON schemas or Pydantic objects) from LLMs.
 
+6. **[6-middleware.ipynb](file:///d:/AI%20Material/LangChain-Krish%20Naik/LangChain/6-middleware.ipynb)**
+   - Implementing middleware, custom callback handlers, and run tracing in LangChain.
+
 ---
 
 ## 🛠️ Tech Stack & Dependencies
